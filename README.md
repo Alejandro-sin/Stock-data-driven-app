@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="images/logo.png">
   <br/>
-  Project: Particles
+  Project: Stock-data-drive-app
   <br>
 </h1>
 
@@ -24,10 +24,8 @@
 
 # INTRODUCTION.
 
-This project its all about learning and how to use and implement P5js for making animations with pure JavaScript
-the library P5js is a library for creative coding, with a focus on making coding accessible and inclusive for artist, designers creator, educators and for everyone, its opensource and free.
+This project its all about learning and how to use and implement ...
 
-https://p5js.org/
 
 
 ## **Index** :
